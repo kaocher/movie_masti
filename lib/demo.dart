@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import '../../widgets/movie_card_vertical.dart';
 
 class Demo extends StatelessWidget {
   const Demo({super.key});
